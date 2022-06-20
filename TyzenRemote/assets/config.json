@@ -1,0 +1,8 @@
+{
+  "token": "97691358",
+  "mac": "9C.8C.6E.45.8D.81",
+  "host": "192.168.178.89",
+  "api_location": "api/v2/",
+  "wol_port": 8001,
+  "api_port": 8002
+}
